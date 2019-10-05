@@ -1,5 +1,5 @@
 <?php
-include_once"admin/config/config.php";
+include_once "admin/config/config.php";
 ?>
 <!DOCTYPE html>
 <html>
