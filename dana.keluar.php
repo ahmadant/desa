@@ -27,7 +27,7 @@ include_once"admin/config/config.php";
 	<div class="jumbotron alert-success">
 		<h2><srong>Dana Keluar</srong></h2>
 	</div>
-		<div class="row col-lg-12">	
+		<div class="row col-lg-20">	
 			<table class="table table-responsive table-striped">
 				<thead>
 					<tr>
